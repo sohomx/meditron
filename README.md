@@ -1,6 +1,4 @@
 <p align="center">
-<a href=https://github.com/sohomx/meditron target="_blank">
-<img src='/placeholder.jpg' width="100%" alt="Banner" />
 </a>
 </p>
 
